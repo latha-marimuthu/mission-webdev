@@ -1,0 +1,81 @@
+/* h1{
+    color:rgb(161, 115, 29);
+
+}
+
+h2{
+    color:blueviolet;
+}
+
+p{
+    color:cadetblue;
+    font-weight: normal;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1em;
+    
+}
+.c1
+{ 
+    color: black;
+    
+    font-style: italic;
+    text-decoration:underline;
+    text-transform: uppercase;
+    letter-spacing: 0em;
+    border: rgb(114, 37, 1) 5px solid;
+    border-style: dashed;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+
+.c2
+{
+    border: tomato 5px solid;
+}
+.c2 li{
+    border-radius: 15px;
+    padding-bottom: red 5px dotted;
+}
+a
+{
+    text-decoration: none;
+}
+a:hover{
+    color:red;
+}
+a:active{
+    color:green;
+}
+a:visited{
+    color:hotpink;
+}
+
+.container
+{
+    width:75%;
+    margin: auto;
+} */
+
+
+input {
+    color: brown;
+}
+
+#age{
+    color: blue;
+    text-align: right;
+}
+
+.inputText{
+    color: red;
+}
+
+.inputfullname {
+    margin: 10pt;
+}
+
+#button{
+    background-color: chartreuse;
+}

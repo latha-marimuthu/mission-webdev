@@ -1,0 +1,21 @@
+* {
+    color: brown;
+
+}
+
+.inputText
+{
+    color: green;
+}
+#password{
+    color: blue;
+}
+
+input{
+    font-size: 22px
+    ;
+}
+
+option {
+    color:rgb(221, 181, 181) ;
+}
